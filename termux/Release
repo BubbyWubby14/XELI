@@ -1,0 +1,7 @@
+Origin: XELI
+Label: XELI
+Suite: stable
+Codename: xeli
+Architectures: all
+Components: main
+Description: XELI Termux packages
