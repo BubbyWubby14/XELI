@@ -1,0 +1,34 @@
+Package: xeli-transfer
+Version: 1.1
+Architecture: all
+Maintainer: XELI
+Depends: xelie, xelid, bash
+Filename: pool/main/x/xeli-transfer.deb
+Size: 1856
+MD5sum: e9e3057f47fb9dab3c696a98808617a3
+SHA1: acbbf94940885af43ea398423e04f7c244439c09
+SHA256: 0f88fe34e99b53a4a293790f16a8837297a1bb29c2a4e817e5174e3153840959
+Description: Transfer files using temporary XELI encoding and remove source after success
+
+Package: xelid
+Version: 1.0
+Architecture: all
+Maintainer: XELI
+Filename: pool/main/x/xelid.deb
+Size: 2336
+MD5sum: 24d91b7c475fea61f942f12a37a1d44f
+SHA1: 03c3572147dd7a1def6576cc26de9213ee1ccc47
+SHA256: ee9589fc3961b6da2fbfba4892ca1ea2221837447955d4817ba7a9c99d5bf752
+Description: XELI text and file decoder
+
+Package: xelie
+Version: 1.0
+Architecture: all
+Maintainer: XELI
+Filename: pool/main/x/xelie.deb
+Size: 1908
+MD5sum: 102f4baec78bf60cc1b1696d7b0b28fc
+SHA1: beca729781b61619a2c12ef425f8554bbae450fc
+SHA256: b63cfe1a0c46ebc60c4b713ef9bbc1358d740694fa19d5a72a50b6389d5f1289
+Description: XELI encoder implemented in Bash without Python
+
