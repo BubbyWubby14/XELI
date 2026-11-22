@@ -2,24 +2,24 @@ Origin: XELI
 Label: XELI
 Suite: stable
 Codename: termux
-Date: Sun, 22 Nov 2026 20:47:16 +0000
+Date: Sun, 22 Nov 2026 20:49:15 +0000
 Architectures: all
 Components: main
 Description: XELI APT Repository
 
 MD5Sum:
  a42a8e3c73bb45838861a795daa51f8c 1977 Packages
- a4766eac2c33cb2fa594d40308b5b0a4 963 Packages.gz
+ 3f06089cb66fc2b4144186b9ab5fb60d 963 Packages.gz
 
 SHA1:
  848f6f837d8f0137934aa7249de9eb37c9712489 1977 Packages
- e706653dd7f80211f0a20fc92ce30ea6e8707547 963 Packages.gz
+ 195bf79c1a25bab4a062db45232bf5e946cad2d7 963 Packages.gz
 
 SHA256:
  0c6a05317bdd34455a05872819e863aba403f2b236bbea14a910cb903ef0ea5d 1977 Packages
- ba76448c4c8066c8587a99c8a3fe8e3c3036aa9f5fb0e628de3dff99508d54cc 963 Packages.gz
+ d698bdff29689b498b0bd80687e1dd66c1d1e7c0679b894ebac0433f841d90f1 963 Packages.gz
 
 SHA512:
  1ae9408d3d40fb31e72735ccb09dafaed7274daaf4fc65073e5d3a02947ef4bfc1cf0507dbf9c1a1dc4767658defa7ae9774791110437fd6851648d9e90bd382 1977 Packages
- 1e90dc1b784651ed1ce75972f3255a40c5a0e904c115a1cd1dfb9324ef0a5b478353e67351b8b3a7a8c221da4c72c5a898181bf45b591fec4edd9b089368ec79 963 Packages.gz
+ 0ab3f662787b83409714c0950078ffc331bd2c501e674b12cf857afb2eabeb86eb112858ec0bdc706418c6dfdaf24aeec34e9f133a184fad27a5d7c4cb2a71b0 963 Packages.gz
 
