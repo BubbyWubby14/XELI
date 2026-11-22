@@ -11,14 +11,15 @@ SHA256: 0f88fe34e99b53a4a293790f16a8837297a1bb29c2a4e817e5174e3153840959
 Description: Transfer files using temporary XELI encoding and remove source after success
 
 Package: xelid
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: XELI
+Depends: bash, coreutils
 Filename: pool/main/x/xelid.deb
-Size: 2336
-MD5sum: 24d91b7c475fea61f942f12a37a1d44f
-SHA1: 03c3572147dd7a1def6576cc26de9213ee1ccc47
-SHA256: ee9589fc3961b6da2fbfba4892ca1ea2221837447955d4817ba7a9c99d5bf752
+Size: 2256
+MD5sum: 0c5ca1585755f0c490367b5d68fac236
+SHA1: f4f4fd908652103867ff13edacb77209c8e06389
+SHA256: 29d18812e3293bd5895b0d3d4a5c8e0c9eba30ab8bcd0783cb613207bbce309a
 Description: XELI text and file decoder
 
 Package: xelie
