@@ -1,3 +1,17 @@
+Package: xeli-edcrypt
+Version: 1.3
+Architecture: all
+Maintainer: XELI
+Depends: xelie, xelid
+Filename: pool/main/x/xeli-edcrypt.deb
+Size: 2452
+MD5sum: 3934318103f39846943c9078e9c682d7
+SHA1: d00c7da2878097b1a5749346eb8ecd813cc152a2
+SHA256: 2ccb5f47fd80e887c7b84bf3ab9033cea5d7f146c396f214cdca3b6984502420
+Description: XELI signed-offset character-position obfuscator
+ Uses xelid to decode and xelie to encode XELI text after shifting
+ character positions through the 97-character XELI alphabet.
+
 Package: xeli-transfer
 Version: 1.1
 Architecture: all

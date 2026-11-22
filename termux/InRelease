@@ -1,31 +1,34 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Origin: XELI
-Label: XELI
-Suite: stable
-Codename: xeli
-Date: Sun, 22 Nov 2026 01:46:04 +0000
-Architectures: all
-Components: main
-Description: XELI Termux packages
+Date: Sun, 22 Nov 2026 17:12:52 +0000
 MD5Sum:
- 91e84fbaf96b78168700beac36fe523f 1064 Packages
- 204f4d45203c5294f46c490fc84348f6 594 Packages.gz
+ e34cc0bac955373dfad31b2c7eda1b50             1558 Packages
+ d65d42d2bba1b46c0d726d1ff6df075a              799 Packages.gz
+ 06bf716edfd29502e4e23de802b52bc5               38 Release
+SHA1:
+ cacd5c271c861378314f411eef358519d57e8835             1558 Packages
+ a245ad1bedaa37b45bf9c73bfb9a04545e31299e              799 Packages.gz
+ bab8695d1aa00726b78e5699e886e95814220c59               38 Release
 SHA256:
- adbed74c886435127d74c23cb3c184d1699fb264cb95d05e87160ce1383c3f18 1064 Packages
- ffe0db998b34b21fbd2d286d0064cabbc6eceee50aabcd1f8733a1fd88a0211a 594 Packages.gz
+ f453d0265ba70fb15815698c7aa60b54c5388d9eeb5d1e169b89ca42ee1e115c             1558 Packages
+ a4ee2197f20082848df1aabcfcbeb30f3ccc3158b7a0bb365a8420aaf98d4e1a              799 Packages.gz
+ 832b1a6d2dff118cfe23a42c3fc61335cb9ef89838b21f5f78ad5577d510f906               38 Release
+SHA512:
+ 00a30e31adda906396a4efaf26289f92976389501c601b034720e865b188e23a13f9fdfad01869ff25ccc5f0b1a2a7926621e93c6fe1847415de333c9198f837             1558 Packages
+ e24480619a9bb998f8a5d8ffa7552cad1b2057fb25062903914d8fc91e6bfc9054d3ecd2214f17446fc0169511b3f7c4476469fda2fe190ea3f34c65c109278a              799 Packages.gz
+ 0d966f921c7856886aaaad77adfcccf1b4b2160dbe0db3ed17164ec7744612a8a9393004607bf7e2a5f9200b2993f349431ca23572014154c0540da9a01143d5               38 Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCAA5FiEEXax+befMhvojrSsXNOrqVwV5Xv4FAmsCSXobFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMywyAAoJEDTq6lcFeV7+K24L/2hB9fwimIjbVMDPj70S
-r//hOGl7hVGjSsLrvmS+Vf5SmORJcCua6cDonI648Q9dzWjaj9tqG3Jj/9MPcB8E
-jeR9I7Ipj//ayDsIYNL5G9fl3lboYGdEA+/rFKD3tXSdyzHeynp9Xyo+kuroz9I9
-wXPmwWQb4BkNhcnD2h0P9n01MUxbGfnkITcQIeXZyM5AP2EI6iL3LzKlLBaTg6Nh
-HYMk/QZ6HTW5d3Y5i+PPYDhTLXlIUiggIPiqkpNQHp4r1wHsuMuPtb7cxbSmXPCb
-0jkZW9r9UPm6BFlfRHNpfF6bvMG4N4Yx89QbCS8IKFAPVRq1FnGdaK4oBHHgRKDE
-UmC2TuQxKu1BMXaaZT5ih5kEUdbS/XJXCrfFKeea23OFtRvXEb3GuLflerY8yA+P
-V15Td4/jGIeOU7fbzMIW/cxzgDmxjpQnJr+8noRLBtL+gI6D5r3h2HBybdp0anZX
-IaF+OKNy7aEPIftyOekqLxRzIc++iN/kVCqNu9Pr7EpkIQ==
-=aI0W
+iQHPBAEBCAA5FiEEXax+befMhvojrSsXNOrqVwV5Xv4FAmsDIqAbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEDTq6lcFeV7+Z+0L/AoAlHxFfP1K9Lris17w
+JKSWrBxOL6KMi7zbQ0KwISQkWEuxoYDr2p2Ef5iV38C8josH2st2CnOR5UypLiLZ
+uQfqOuxWEaUe7KvZfkR5qVasOkgWzcbR8R/3FpYHYF4JPkMv0Z7mHH2p5FBUMs3P
+WRM9OKiOVQi4epF/e+UBgViqmlPQIaFmqxUeAzXCsrlGoTwS0c7s2DJFiY8SphgD
+iRx4pid7DjIJtrRkh8rYvwjx/RXjbk/qfZredtdBfZ2UwtV7Sprj+zykhgTlzxGV
+B9r2YloNaD/aTGBLY/FFIcLpeIFKVHKYWkr10j1k76cf8khhm+HmR0bn0qvVv9mq
+gsmkNuUa9K4nlryNzGP9tDOk0cVqXTf/JWYWPWtImA2VkJ9tJifeUj47ZuzPpfrs
+HdroZKC2ntk7WcN4P9iY3im5ZCkfJD1kfzEC8P7Sjjmb8XQ63CppJMAsGBlhLaRx
++a8qPpXD6MAo/9X1W8u4xJsNH5IXasf+Bl8EyGH1VAorGA==
+=lYBO
 -----END PGP SIGNATURE-----

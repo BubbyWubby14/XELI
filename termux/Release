@@ -1,14 +1,17 @@
-Origin: XELI
-Label: XELI
-Suite: stable
-Codename: xeli
-Date: Sun, 22 Nov 2026 01:46:04 +0000
-Architectures: all
-Components: main
-Description: XELI Termux packages
+Date: Sun, 22 Nov 2026 17:12:52 +0000
 MD5Sum:
- 91e84fbaf96b78168700beac36fe523f 1064 Packages
- 204f4d45203c5294f46c490fc84348f6 594 Packages.gz
+ e34cc0bac955373dfad31b2c7eda1b50             1558 Packages
+ d65d42d2bba1b46c0d726d1ff6df075a              799 Packages.gz
+ 06bf716edfd29502e4e23de802b52bc5               38 Release
+SHA1:
+ cacd5c271c861378314f411eef358519d57e8835             1558 Packages
+ a245ad1bedaa37b45bf9c73bfb9a04545e31299e              799 Packages.gz
+ bab8695d1aa00726b78e5699e886e95814220c59               38 Release
 SHA256:
- adbed74c886435127d74c23cb3c184d1699fb264cb95d05e87160ce1383c3f18 1064 Packages
- ffe0db998b34b21fbd2d286d0064cabbc6eceee50aabcd1f8733a1fd88a0211a 594 Packages.gz
+ f453d0265ba70fb15815698c7aa60b54c5388d9eeb5d1e169b89ca42ee1e115c             1558 Packages
+ a4ee2197f20082848df1aabcfcbeb30f3ccc3158b7a0bb365a8420aaf98d4e1a              799 Packages.gz
+ 832b1a6d2dff118cfe23a42c3fc61335cb9ef89838b21f5f78ad5577d510f906               38 Release
+SHA512:
+ 00a30e31adda906396a4efaf26289f92976389501c601b034720e865b188e23a13f9fdfad01869ff25ccc5f0b1a2a7926621e93c6fe1847415de333c9198f837             1558 Packages
+ e24480619a9bb998f8a5d8ffa7552cad1b2057fb25062903914d8fc91e6bfc9054d3ecd2214f17446fc0169511b3f7c4476469fda2fe190ea3f34c65c109278a              799 Packages.gz
+ 0d966f921c7856886aaaad77adfcccf1b4b2160dbe0db3ed17164ec7744612a8a9393004607bf7e2a5f9200b2993f349431ca23572014154c0540da9a01143d5               38 Release
