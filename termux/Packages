@@ -12,6 +12,19 @@ Description: XELI signed-offset character-position obfuscator
  Uses xelid to decode and xelie to encode XELI text after shifting
  character positions through the 97-character XELI alphabet.
 
+Package: xeli-rpp
+Version: 1.0
+Architecture: all
+Maintainer: XELI
+Depends: bash, openssl, coreutils
+Filename: pool/main/x/xeli-rpp.deb
+Size: 2812
+MD5sum: 3bf4da07e6455c106c2859e86cdafefb
+SHA1: 445ae80048940e56b1f5c8e5d89403239f721e6f
+SHA256: cfca6e206ce8ac4603402432f5dad8891d312958a635d88f6cf606cc53ec1aab
+Description: Multi-password protection for XELI files
+ Bash-based XELI password protection utility for Termux.
+
 Package: xeli-transfer
 Version: 1.1
 Architecture: all
