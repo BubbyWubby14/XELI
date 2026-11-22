@@ -5,21 +5,42 @@ Origin: XELI
 Label: XELI
 Suite: stable
 Codename: xeli
-Date: Sun, 22 Nov 2026 17:41:18 +0000
+Date: Sun, 22 Nov 2026 17:46:20 +0000
 Architectures: all
 Components: main
 Description: XELI Termux package repository
+MD5Sum:
+ e34cc0bac955373dfad31b2c7eda1b50 1558 Packages
+ 21ac913265dfb0315c0b00e34cc00008 790 Packages.gz
+ 3934318103f39846943c9078e9c682d7 2452 pool/main/x/xeli-edcrypt.deb
+ e9e3057f47fb9dab3c696a98808617a3 1856 pool/main/x/xeli-transfer.deb
+ 0c5ca1585755f0c490367b5d68fac236 2256 pool/main/x/xelid.deb
+ 102f4baec78bf60cc1b1696d7b0b28fc 1908 pool/main/x/xelie.deb
+SHA1:
+ cacd5c271c861378314f411eef358519d57e8835 1558 Packages
+ 593cc0e77cf26a0f6f6ca498838fae28ecd89c85 790 Packages.gz
+ d00c7da2878097b1a5749346eb8ecd813cc152a2 2452 pool/main/x/xeli-edcrypt.deb
+ acbbf94940885af43ea398423e04f7c244439c09 1856 pool/main/x/xeli-transfer.deb
+ f4f4fd908652103867ff13edacb77209c8e06389 2256 pool/main/x/xelid.deb
+ beca729781b61619a2c12ef425f8554bbae450fc 1908 pool/main/x/xelie.deb
+SHA256:
+ f453d0265ba70fb15815698c7aa60b54c5388d9eeb5d1e169b89ca42ee1e115c 1558 Packages
+ 8418478d9bc0b1c948367d63c5c29b7ed368e32aceabbada48a5d15cc156a0b0 790 Packages.gz
+ 2ccb5f47fd80e887c7b84bf3ab9033cea5d7f146c396f214cdca3b6984502420 2452 pool/main/x/xeli-edcrypt.deb
+ 0f88fe34e99b53a4a293790f16a8837297a1bb29c2a4e817e5174e3153840959 1856 pool/main/x/xeli-transfer.deb
+ 29d18812e3293bd5895b0d3d4a5c8e0c9eba30ab8bcd0783cb613207bbce309a 2256 pool/main/x/xelid.deb
+ b63cfe1a0c46ebc60c4b713ef9bbc1358d740694fa19d5a72a50b6389d5f1289 1908 pool/main/x/xelie.deb
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCAA5FiEEXax+befMhvojrSsXNOrqVwV5Xv4FAmsDKUobFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMywyAAoJEDTq6lcFeV7+FbIMAL/pOOCcURWbjfhW4ANx
-5DX2mrpzTYCXhyP4iVipZ0fqQo6c7P/39muRAYLco7ppTp6YRXK3aCDT3BFNKuDd
-+TIaeCKv6ZQVkMkM0vUmLonMHp8RqOm9Prp7l2sJ/Da4/e02JBReFzfxW8sX3/TU
-60gE7Nc0zD+WQ2r6sLwAP91XyICbDpSPXPMICr7iqutdANK1TnRmDKVi9TKppf6x
-moza7loNGrmTz3JOS8TfwJ5OZD1mUiGggtFZ4jEFEKP/VKL/Zpee+29UZ55NywBl
-1TIitxI1qZEEwXQBfEk3iY8Ui2/+nTpR/rt2wensZuhOLdrSsWIWfjcBCGwIK4FR
-gjirDP/twIyL3H5ebEpxYKQ+Rwxh385mMkPjPmBmGPogwtv1IUk+HCm8nEM/fgnF
-ZOKyZ/ss4UHAk98MerAGFBFqxng1oRHb4or7czOoPZMEwz1HcGE0e0KccX4z4NHS
-y8/bSw4/Koh8FuCOxKD7FqrEa9i9lT7Lmm0Jgq7Fb1ldmw==
-=ftTX
+iQHPBAEBCAA5FiEEXax+befMhvojrSsXNOrqVwV5Xv4FAmsDKnsbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEDTq6lcFeV7+8v0L/RCOUTANfvZaEiHsIIZY
+GG/960yxV5Qin0uc3cS3aoaFPvdFGTKa9wyN0TswTT+8wqFX3wrut78u97zW8zxe
+NRbmha7gZW7DMtfjSHMVQdBksRrf7W5FZUHjkqidWfY/NChCZj08yH2TooBVrG1b
+KhyvEyXJbsxVl+wVzr08H7UW/Pq1ag2RffOVVQSIaS2z7dYy+4lyNJiV6afIERPa
+sIVYx+xEZy2Fr21D6cNmyTgvtmeW1QC6oZswK+1QoMWMzmBBOn3kTjmlNI97UCIU
+Qm+p1rLSU9azrxsCA0NgGR4nxPj+HDm+dI1D9Mk3AzIJWa6o4hOR/F8otp96COzj
+baAbrLd57fD9Bcjag3SEY+E7IpAT2AgSS79eqUZR8d4OrpypVDPxFD0fbRF0pArc
+c4uN1FubQr8NyqEYS16gQoelm8qyY+wPMviF+j5ulyk8kAXsS7j1LjLUFf2gXfsM
+FXt4ks/7urf3fcQZyOwAwnXiKSKKXh/ae/c1bt51QF1CGg==
+=UOsm
 -----END PGP SIGNATURE-----
