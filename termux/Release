@@ -2,7 +2,7 @@ Origin: XELI
 Label: XELI
 Suite: stable
 Codename: xeli
-Date: Sun, 22 Nov 2026 00:43:04 +0000
+Date: Sun, 22 Nov 2026 00:47:32 +0000
 Architectures: all
 Components: main
 Description: XELI Termux packages
@@ -11,6 +11,6 @@ MD5Sum:
 SHA256:
  42c4b132f6ed4bca7be9992fc5a84a14d2d11a96009ed2fdae183fa8cf3401b2 1039 Packages
 MD5Sum:
- d352e673ba8bf3575f5199949e657ef9 584 Packages
+ 84d67ad0ee03d9733e743b86b5aeeeb4 584 Packages
 SHA256:
- b5ab266f1e1755a8f402a5f22d872eb76fbfcff7f0918c74e033516e45ac224a 584 Packages
+ cf92d710dde043be7812b2b8b9cee16d91c7bcf04d4f3597377ee9851d3bbd73 584 Packages
